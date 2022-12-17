@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e99c27-f5f5-407a-b7b5-e62936b2e696" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/TurtleDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/TurtleEast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/TurtleNorth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/TurtleSouth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/TurtleWest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example6/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example5/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example6/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example6/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
