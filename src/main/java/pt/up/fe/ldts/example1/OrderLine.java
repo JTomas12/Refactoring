@@ -16,4 +16,8 @@ public class OrderLine {
     public int getQuantity() {
         return quantity;
     }
+
+    public double getTotal() {
+        return getProduct().getPrice() * getQuantity();
+    }
 }
